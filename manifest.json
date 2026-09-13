@@ -1,0 +1,12 @@
+{
+  "background_color": "#2b5a30",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "favourite-ludo-game-xxxx.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "favourite-ludo-game-xxxx.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "An exciting ludo game"
+}
